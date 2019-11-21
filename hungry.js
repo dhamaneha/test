@@ -8,6 +8,7 @@ if(hungry=="Yes"){
 else{
     if(thirst=="Yes"){
         console.log('Drink water');
+        console.log('soda');
     }
     console.log('Do your study');
 }
