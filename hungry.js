@@ -6,5 +6,8 @@ if(hungry=="Yes"){
     console.log('burger');
 }
 else{
+    if(thirst=="Yes"){
+        console.log('Drink water');
+    }
     console.log('Do your study');
 }
